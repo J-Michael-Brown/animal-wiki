@@ -2,12 +2,24 @@
   display: none;
 }
 
-.leopard-info {
-  text-align: center;
+.info {
+  text-align: left;
+  font-family: helvetica;
 }
 
 .info img {
   width: 300px;
   float: left;
   margin: 15px;
+  margin-top: 0px;
+}
+
+h2:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+h2 {
+  cursor: pointer;
+  color: grey;
 }
