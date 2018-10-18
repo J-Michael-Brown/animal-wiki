@@ -1,3 +1,13 @@
 .info {
   display: none;
 }
+
+.leopard-info {
+  text-align: center;
+}
+
+.info img {
+  width: 300px;
+  float: left;
+  margin: 15px;
+}
